@@ -1,1 +1,2 @@
 reset first command soft practice
+reset mixed
